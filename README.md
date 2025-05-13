@@ -107,3 +107,23 @@
     <img src="https://github-profile-trophy.vercel.app/?username=Pavlo-Rods&theme=radical&margin-w=15&margin-h=15&column=7" alt="Trofeos de GitHub" />
   </a>
 </div>
+
+---
+
+### 📈 Actividad Diaria
+
+<!-- Gráfico de actividad reciente -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pavlo-Rods&theme=react-dark&hide_border=true&custom_title=Contribuciones%20Recientes" alt="Gráfico de Actividad" width="95%" />
+</div>
+
+<!-- Animación Snake -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pavlo-Rods/Pavlo-Rods/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pavlo-Rods/Pavlo-Rods/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Pavlo-Rods/Pavlo-Rods/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+<!-- Nota: Para activar la animación Snake, consulta las instrucciones después de guardar este README -->
