@@ -118,12 +118,4 @@
 </div>
 
 <!-- Animación Snake -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pavlo-Rods/Pavlo-Rods/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pavlo-Rods/Pavlo-Rods/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Pavlo-Rods/Pavlo-Rods/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-
-<!-- Nota: Para activar la animación Snake, consulta las instrucciones después de guardar este README -->
+<img src="https://raw.githubusercontent.com/JuanAntonioMorenoMoguel/JuanAntonioMorenoMoguel/output/snake.svg" alt="Snake animation" />
