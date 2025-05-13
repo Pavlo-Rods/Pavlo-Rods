@@ -44,10 +44,10 @@
 <!-- Nota: Reemplaza "TU-USERNAME" con tu nombre de usuario real de GitHub -->
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="160em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=TU-USERNAME&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+    <img height="160em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Pavlo-Rods&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="160em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=TU-USERNAME&layout=compact&langs_count=7&theme=radical"/>
+    <img height="160em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Pavlo-Rods&layout=compact&langs_count=7&theme=radical"/>
   </a>
 </p>
 
