@@ -58,10 +58,10 @@
 <!-- Proyectos con cards personalizadas -->
 <p align="center">
   <a href="https://github.com/Go4Surprise/Go4Surprise">
-    <img width="400" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=TU-USERNAME&repo=proyecto1&theme=radical&show_icons=true" alt="Proyecto 1">
+    <img width="400" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Pavlo-Rods&repo=proyecto1&theme=radical&show_icons=true" alt="Proyecto 1">
   </a>
   <a href="https://github.com/Pavlo-Rods/MartaInvitation">
-    <img width="400" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=TU-USERNAME&repo=proyecto2&theme=radical&show_icons=true" alt="Proyecto 2">
+    <img width="400" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Pavlo-Rods&repo=proyecto2&theme=radical&show_icons=true" alt="Proyecto 2">
   </a>
 </p>
 
