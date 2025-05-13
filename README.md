@@ -114,8 +114,7 @@
 
 <!-- Gráfico de actividad reciente -->
 <div align="center">
+  <!-- Animación Snake -->
+  <img src="https://raw.githubusercontent.com/JuanAntonioMorenoMoguel/JuanAntonioMorenoMoguel/output/snake.svg" alt="Snake animation" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pavlo-Rods&theme=react-dark&hide_border=true&custom_title=Contribuciones%20Recientes" alt="Gráfico de Actividad" width="95%" />
 </div>
-
-<!-- Animación Snake -->
-<img src="https://raw.githubusercontent.com/JuanAntonioMorenoMoguel/JuanAntonioMorenoMoguel/output/snake.svg" alt="Snake animation" />
