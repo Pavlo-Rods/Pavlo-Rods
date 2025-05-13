@@ -103,21 +103,6 @@
   </p>
 </div>
 
-<!-- Component interactivo para LinkedIn -->
-<div align="center">
-  <a href="https://www.linkedin.com/in/TU-PERFIL-LINKEDIN/">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:tu-email@example.com">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gmail.svg" width="32" height="32" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://tu-portafolio.com">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" />
-  </a>
-</div>
-
 <!-- Elemento interactivo con contador de commits -->
 <div align="center">
   <br />
