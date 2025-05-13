@@ -102,11 +102,3 @@
     <a href="https://code.visualstudio.com/"><img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code"/></a>
   </p>
 </div>
-
-<!-- Elemento interactivo con contador de commits -->
-<div align="center">
-  <br />
-  <a href="https://github.com/TU-USERNAME">
-    <img src="https://metrics.lecoq.io/TU-USERNAME?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=Europe%2FMadrid" />
-  </a>
-</div>
