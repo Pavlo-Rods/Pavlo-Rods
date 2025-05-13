@@ -41,7 +41,6 @@
 
 ### 📊 GitHub Stats
 
-<!-- Nota: Reemplaza "TU-USERNAME" con tu nombre de usuario real de GitHub -->
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height="160em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Pavlo-Rods&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
@@ -55,13 +54,12 @@
 
 ### 🏆 Mis Proyectos
 
-<!-- Proyectos con cards personalizadas -->
 <p align="center">
   <a href="https://github.com/Go4Surprise/Go4Surprise">
-    <img width="400" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Pavlo-Rods&repo=proyecto1&theme=radical&show_icons=true" alt="Proyecto 1">
+    <img width="400" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Go4Surprise&repo=Go4Surprise&theme=radical&show_icons=true" alt="Go4Surprise">
   </a>
   <a href="https://github.com/Pavlo-Rods/MartaInvitation">
-    <img width="400" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Pavlo-Rods&repo=proyecto2&theme=radical&show_icons=true" alt="Proyecto 2">
+    <img width="400" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Pavlo-Rods&repo=MartaInvitation&theme=radical&show_icons=true" alt="MartaInvitation">
   </a>
 </p>
 
@@ -81,7 +79,7 @@
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=TU-USERNAME&style=for-the-badge&color=blueviolet" alt="Visitas al perfil"/>
+  <img src="https://komarev.com/ghpvc/?username=Pavlo-Rods&style=for-the-badge&color=blueviolet" alt="Visitas al perfil"/>
 </div>
 
 <!-- Skills Tech Stack - Iconos interactivos -->
@@ -101,4 +99,11 @@
     <a href="https://git-scm.com/"><img src="https://img.icons8.com/color/48/000000/git.png" alt="Git"/></a>
     <a href="https://code.visualstudio.com/"><img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code"/></a>
   </p>
+</div>
+
+<!-- Añadido un componente interactivo extra -->
+<div align="center">
+  <a href="https://github.com/Pavlo-Rods">
+    <img src="https://github-profile-trophy.vercel.app/?username=Pavlo-Rods&theme=radical&margin-w=15&margin-h=15&column=7" alt="Trofeos de GitHub" />
+  </a>
 </div>
