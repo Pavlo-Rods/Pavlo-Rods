@@ -57,10 +57,10 @@
 
 <!-- Proyectos con cards personalizadas -->
 <p align="center">
-  <a href="https://github.com/TU-USERNAME/proyecto1">
+  <a href="https://github.com/Go4Surprise/Go4Surprise">
     <img width="400" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=TU-USERNAME&repo=proyecto1&theme=radical&show_icons=true" alt="Proyecto 1">
   </a>
-  <a href="https://github.com/TU-USERNAME/proyecto2">
+  <a href="https://github.com/Pavlo-Rods/MartaInvitation">
     <img width="400" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=TU-USERNAME&repo=proyecto2&theme=radical&show_icons=true" alt="Proyecto 2">
   </a>
 </p>
@@ -70,24 +70,13 @@
 ### 📫 Conecta conmigo
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/TU-PERFIL-LINKEDIN/" target="_blank">
+  <a href="https://www.linkedin.com/in/pablo-rodríguez-sánchez-523b3b2b6/?trk=opento_sprofile_goalscard" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
-  <a href="mailto:tu-email@example.com">
+  <a href="mailto:pablo07113@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
-  <a href="https://tu-portafolio.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" target="_blank">
-  </a>
 </div>
-
----
-
-### 📈 Contribuciones
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TU-USERNAME&theme=radical" />
-</p>
 
 ---
 
